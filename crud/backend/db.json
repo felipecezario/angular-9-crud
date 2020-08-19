@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC azul",
+      "price": 5.89
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Veio do Formuladio",
+      "price": "9.99",
+      "id": 6
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 7
+    }
+  ]
+}
